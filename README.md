@@ -13,7 +13,8 @@
 # Проекты:
 - [Пет-проект по анализу вакансий с hh.ru: Streamlit-приложение SkillMatch, где я реализовала парсинг и считала precision для оценки соответствия профиля соискателя требованиям рынка](https://github.com/EkaterinaKulik/SkillMatch)
 - [Курсовая работа по дискурсивным коалициям в российском парламенте, где я использовала кластерный анализ, логистическую регрессию и модель экспоненциального графа](https://github.com/EkaterinaKulik/Termwork)
-- [Домашние задания по курсам машинного обучения](https://github.com/EkaterinaKulik/ML-DL_homework)
+- [Домашние задания по курсам машинного обучения](https://github.com/EkaterinaKulik/ML_homework)
+- [Домашние задания по курсу глубинного обучения](https://github.com/EkaterinaKulik/DL_homework)
 - [Домашние задания в рамках майнора ИАД](https://github.com/EkaterinaKulik/IAD_hw)
 
 # Контакты:
